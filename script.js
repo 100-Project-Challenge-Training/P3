@@ -41,3 +41,4 @@ let fetchPokemon = async () => {
 };
 
 fetchPokemon();
+
