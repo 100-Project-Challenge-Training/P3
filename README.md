@@ -1,5 +1,6 @@
 # P3
 
-Pokemon Cards 
+Pokemon Cards, a beautiful cards created by JS using Pokemon API
 
-[URL]()
+
+[URL](https://100-project-challenge-training.github.io/P3/)
